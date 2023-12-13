@@ -1,0 +1,40 @@
+[
+	{
+		"userQuestioner": "Mahadev Manerikar",
+		"questionTitle": "Which courses this college offers?",
+		"questionDescription": "This is the description of the question",
+		"questionTag": "Courses",
+		"upvotes":10,
+		"downvotes":3,
+		"answers": ["61dd46f03cecd228e9df643a", "123"]
+	},
+	{
+		"userQuestioner": "Pragati More",
+		"questionTitle": "This is a question 2",
+		"questionDescription": "This is the description of the question",
+		"questionTag": "Events",
+		"upvotes": 20,
+		"downvotes": 5,
+		"answers": ["61dd46f03cecd228e9df643a", "61dd46f03cecd228e9df6439"]
+
+	},
+	{
+		"userQuestioner": "Kaiwalya Koparkar",
+		"questionTitle": "This is a question 3",
+		"questionDescription": "This is the description of the question",
+		"questionTag": "Courses",
+		"upvotes":15,
+		"downvotes":0,
+		"answers": ["61dd46f03cecd228e9df643a", "61dd46f03cecd228e9df6439"]
+	},
+	{
+		"userQuestioner": "Mrunaal Chincholikar",
+		"questionTitle": "This is a question 4",
+		"questionDescription": "This is the description of the question",
+		"questionTag": "Jobs",
+		"upvotes":13,
+		"downvotes":2,
+		"answers": ["61dd46f03cecd228e9df643a", "61dd46f03cecd228e9df6439"]
+	}
+ 
+]
